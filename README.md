@@ -21,7 +21,7 @@ Unity 2018.1.6f
 Visual Studio 2017
 
 ## 플레이 스토어
-https://play.google.com/store/apps/details?id=com.mitgames.gca&hl=ko
+<https://play.google.com/store/apps/details?id=com.mitgames.gca&hl=ko>
 
 ## 소개 영상
-https://www.youtube.com/watch?v=uVf8V8zlQik
+<https://www.youtube.com/watch?v=uVf8V8zlQik>
