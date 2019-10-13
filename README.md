@@ -26,6 +26,12 @@ Visual Studio 2017
 ## 소개 영상
 <https://www.youtube.com/watch?v=uVf8V8zlQik>
 
+## 프로젝트 관련 문서
+ - 할일 목록: <https://docs.google.com/document/d/1oEh7qHTNhte0JTwTM_fa0IPgwicCNehId78O0HezPkc/edit?usp=sharing>
+ - 클래스 명세서: <https://docs.google.com/spreadsheets/d/1a6XrOzZNmNRU88Bc5nw-dENKpW6b2CtX5XSDfyZmz-g/edit?usp=sharing>
+
+클래스 명세서는 현재 코드와 완전히 일치하지는 않습니다.
+
 ## PlayerPrefs 활용 요소
 인트로씬 실행 유무 확인시에 사용합니다.
 평가 결과를 저장 할 때 사용합니다.
